@@ -17,3 +17,5 @@ Work Summarise
     5- Show a variation of Demand by day of the week
 
 Skills : Pivot table, VLOOKUP , Conditional Formatting, Summarise, INDEX Function, MATCH Function, MAXIFS  		
+
+Analysis presentation link : https://prezi.com/view/MZKoP5qBmolekugX8H9z/ 
